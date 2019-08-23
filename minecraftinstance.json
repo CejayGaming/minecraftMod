@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-08-20T12:04:44.6563164Z",
+  "lastPlayed": "2019-08-22T11:34:32.8745916Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -90,6 +90,36 @@
       "fileSize": 737407
     },
     {
+      "folderName": "OreStages-1.12.2-2.0.37.jar",
+      "fingerprint": 36627731,
+      "fileDateHash": 3293781474,
+      "sectionID": 8,
+      "individualFingerprints": [
+        36627731
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.6735974Z",
+      "lastWriteTimeUtc": "2019-08-20T01:38:53.031794Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4049862Z",
+      "fileCount": 1,
+      "fileSize": 31806
+    },
+    {
+      "folderName": "GameStages-1.12.2-2.0.115.jar",
+      "fingerprint": 3463458978,
+      "fileDateHash": 3250379939,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3463458978
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.6535936Z",
+      "lastWriteTimeUtc": "2019-08-20T01:37:46.8338577Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4079865Z",
+      "fileCount": 1,
+      "fileSize": 56291
+    },
+    {
       "folderName": "DefaultOptions_1.12.2-9.2.8.jar",
       "fingerprint": 1590672741,
       "fileDateHash": 2181036679,
@@ -120,19 +150,34 @@
       "fileSize": 51284
     },
     {
-      "folderName": "Mantle-1.12-1.3.3.55.jar",
-      "fingerprint": 2810798110,
-      "fileDateHash": 1853044905,
+      "folderName": "Galacticraft-Planets-1.12.2-4.0.2.231.jar",
+      "fingerprint": 1584606967,
+      "fileDateHash": 3946603288,
       "sectionID": 8,
       "individualFingerprints": [
-        2810798110
+        1584606967
       ],
       "status": 1,
-      "timestamp": "2019-08-20T01:22:30.3733222Z",
-      "lastWriteTimeUtc": "2019-08-20T01:12:04.2704655Z",
-      "queryTimestamp": "2019-08-20T01:22:30.7421716Z",
+      "timestamp": "2019-08-20T23:08:19.5885783Z",
+      "lastWriteTimeUtc": "2019-08-20T23:06:55.7811565Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4059866Z",
       "fileCount": 1,
-      "fileSize": 843486
+      "fileSize": 3912515
+    },
+    {
+      "folderName": "MicdoodleCore-1.12.2-4.0.2.231.jar",
+      "fingerprint": 4010512897,
+      "fileDateHash": 4275516050,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4010512897
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.6725967Z",
+      "lastWriteTimeUtc": "2019-08-20T23:07:01.856221Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4069865Z",
+      "fileCount": 1,
+      "fileSize": 53300
     },
     {
       "folderName": "Guide-API-1.12-2.1.8-63.jar",
@@ -148,6 +193,21 @@
       "queryTimestamp": "2019-08-20T01:22:30.7421716Z",
       "fileCount": 1,
       "fileSize": 169528
+    },
+    {
+      "folderName": "DimensionStages-1.12.2-2.0.23.jar",
+      "fingerprint": 2857534586,
+      "fileDateHash": 1679174394,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2857534586
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.5765756Z",
+      "lastWriteTimeUtc": "2019-08-20T01:37:46.9128758Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4059866Z",
+      "fileCount": 1,
+      "fileSize": 18251
     },
     {
       "folderName": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
@@ -300,6 +360,21 @@
       "fileSize": 148083
     },
     {
+      "folderName": "OpenModsLib-1.12.2-0.12.2.jar",
+      "fingerprint": 1596478407,
+      "fileDateHash": 3953307825,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1596478407
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T01:22:30.3962373Z",
+      "lastWriteTimeUtc": "2019-08-20T01:16:39.8337161Z",
+      "queryTimestamp": "2019-08-20T01:22:30.7431714Z",
+      "fileCount": 1,
+      "fileSize": 2639587
+    },
+    {
       "folderName": "CoFHWorld-1.12.2-1.3.1.7-universal.jar",
       "fingerprint": 288882860,
       "fileDateHash": 2508978903,
@@ -315,19 +390,19 @@
       "fileSize": 532040
     },
     {
-      "folderName": "OpenModsLib-1.12.2-0.12.2.jar",
-      "fingerprint": 1596478407,
-      "fileDateHash": 3953307825,
+      "folderName": "ItemStages-1.12.2-2.0.49.jar",
+      "fingerprint": 53601876,
+      "fileDateHash": 4162601267,
       "sectionID": 8,
       "individualFingerprints": [
-        1596478407
+        53601876
       ],
       "status": 1,
-      "timestamp": "2019-08-20T01:22:30.3962373Z",
-      "lastWriteTimeUtc": "2019-08-20T01:16:39.8337161Z",
-      "queryTimestamp": "2019-08-20T01:22:30.7431714Z",
+      "timestamp": "2019-08-20T23:08:19.6625946Z",
+      "lastWriteTimeUtc": "2019-08-20T01:38:41.1572561Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4079865Z",
       "fileCount": 1,
-      "fileSize": 2639587
+      "fileSize": 43129
     },
     {
       "folderName": "ThermalFoundation-1.12.2-2.6.3.27-universal.jar",
@@ -345,6 +420,21 @@
       "fileSize": 2312713
     },
     {
+      "folderName": "ActuallyAdditions-1.12.2-r149.jar",
+      "fingerprint": 2228470763,
+      "fileDateHash": 1545072064,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2228470763
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T01:22:30.1991133Z",
+      "lastWriteTimeUtc": "2019-08-20T01:16:37.3931298Z",
+      "queryTimestamp": "2019-08-20T01:22:30.7441721Z",
+      "fileCount": 1,
+      "fileSize": 2938988
+    },
+    {
       "folderName": "jei_1.12.2-4.15.0.268.jar",
       "fingerprint": 1053776633,
       "fileDateHash": 562377941,
@@ -360,19 +450,104 @@
       "fileSize": 647239
     },
     {
-      "folderName": "ActuallyAdditions-1.12.2-r149.jar",
-      "fingerprint": 2228470763,
-      "fileDateHash": 1545072064,
-      "sectionID": 8,
+      "folderName": "3_0",
+      "fingerprint": 4132077631,
+      "fileDateHash": 892428928,
+      "sectionID": 10,
       "individualFingerprints": [
-        2228470763
+        84968842,
+        211059764,
+        226598344,
+        489458212,
+        489458212,
+        489458212,
+        493474116,
+        500036828,
+        501356519,
+        505656316,
+        525070758,
+        564023782,
+        668442321,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        805311803,
+        862351398,
+        934065575,
+        1007198162,
+        1178193478,
+        1215693405,
+        1237095453,
+        1302356782,
+        1307702694,
+        1441842433,
+        1441842433,
+        1441842433,
+        1441842433,
+        1441842433,
+        1584003913,
+        1724077395,
+        1757298422,
+        1914411787,
+        2093565164,
+        2098258390,
+        2115865278,
+        2321982584,
+        2371063432,
+        2486339662,
+        2511164956,
+        2520636409,
+        2643933950,
+        2724536631,
+        2841497613,
+        2972045509,
+        2996721909,
+        3135893220,
+        3146306504,
+        3168537208,
+        3227492832,
+        3227492832,
+        3236926897,
+        3268056975,
+        3413672082,
+        3530145701,
+        3588459283,
+        3635755494,
+        3719053922,
+        3807254756,
+        3866496315,
+        3908110237,
+        3937763535,
+        3963411881,
+        4042957229,
+        4123196248,
+        4170544640,
+        4179576794
       ],
       "status": 1,
-      "timestamp": "2019-08-20T01:22:30.1991133Z",
-      "lastWriteTimeUtc": "2019-08-20T01:16:37.3931298Z",
-      "queryTimestamp": "2019-08-20T01:22:30.7441721Z",
+      "timestamp": "2019-08-20T23:08:19.6936016Z",
+      "lastWriteTimeUtc": "2019-08-20T12:09:08.3084392Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4049862Z",
+      "fileCount": 17,
+      "fileSize": 0
+    },
+    {
+      "folderName": "Triumph-1.12.2-3.17.0.jar",
+      "fingerprint": 3343147766,
+      "fileDateHash": 3433599211,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3343147766
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.688601Z",
+      "lastWriteTimeUtc": "2019-08-20T02:30:20.4782676Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4089868Z",
       "fileCount": 1,
-      "fileSize": 2938988
+      "fileSize": 328530
     },
     {
       "folderName": "BetterFps-1.4.8.jar",
@@ -420,6 +595,36 @@
       "fileSize": 27162
     },
     {
+      "folderName": "MobStages-1.12.2-2.0.8.jar",
+      "fingerprint": 2788100997,
+      "fileDateHash": 4075639396,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2788100997
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.6725967Z",
+      "lastWriteTimeUtc": "2019-08-20T01:38:38.3245404Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4079865Z",
+      "fileCount": 1,
+      "fileSize": 24645
+    },
+    {
+      "folderName": "BetterAdvancements-1.12.2-0.1.0.77.jar",
+      "fingerprint": 1663259258,
+      "fileDateHash": 2325846967,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1663259258
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.4905644Z",
+      "lastWriteTimeUtc": "2019-08-20T02:12:14.6284828Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4079865Z",
+      "fileCount": 1,
+      "fileSize": 62668
+    },
+    {
       "folderName": "ImmersiveEngineering-0.12-89.jar",
       "fingerprint": 2437036758,
       "fileDateHash": 3838239205,
@@ -433,21 +638,6 @@
       "queryTimestamp": "2019-08-20T01:22:30.7441721Z",
       "fileCount": 1,
       "fileSize": 6542920
-    },
-    {
-      "folderName": "appliedenergistics2-rv6-stable-7.jar",
-      "fingerprint": 3112664858,
-      "fileDateHash": 4257194505,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3112664858
-      ],
-      "status": 1,
-      "timestamp": "2019-08-20T01:22:30.2131941Z",
-      "lastWriteTimeUtc": "2019-08-20T01:12:34.0770385Z",
-      "queryTimestamp": "2019-08-20T01:22:30.7441721Z",
-      "fileCount": 1,
-      "fileSize": 4062630
     },
     {
       "folderName": "ThermalExpansion-1.12.2-5.5.4.43-universal.jar",
@@ -465,6 +655,36 @@
       "fileSize": 2426151
     },
     {
+      "folderName": "appliedenergistics2-rv6-stable-7.jar",
+      "fingerprint": 3112664858,
+      "fileDateHash": 4257194505,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3112664858
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T01:22:30.2131941Z",
+      "lastWriteTimeUtc": "2019-08-20T01:12:34.0770385Z",
+      "queryTimestamp": "2019-08-20T01:22:30.7441721Z",
+      "fileCount": 1,
+      "fileSize": 4062630
+    },
+    {
+      "folderName": "CraftTweaker2-1.12-4.1.19.jar",
+      "fingerprint": 4052665094,
+      "fileDateHash": 2848814877,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4052665094
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.5535707Z",
+      "lastWriteTimeUtc": "2019-08-20T01:34:44.4921933Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4079865Z",
+      "fileCount": 1,
+      "fileSize": 1368377
+    },
+    {
       "folderName": "ProjectE-1.12.2-PE1.4.1.jar",
       "fingerprint": 3710434117,
       "fileDateHash": 4168669902,
@@ -478,6 +698,21 @@
       "queryTimestamp": "2019-08-20T01:22:30.7441721Z",
       "fileCount": 1,
       "fileSize": 1812973
+    },
+    {
+      "folderName": "GalacticraftCore-1.12.2-4.0.2.231.jar",
+      "fingerprint": 2813772542,
+      "fileDateHash": 929290742,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2813772542
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.6065826Z",
+      "lastWriteTimeUtc": "2019-08-20T23:06:56.7346348Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4079865Z",
+      "fileCount": 1,
+      "fileSize": 10359454
     },
     {
       "folderName": "EnderIO-1.12.2-5.0.50.jar",
@@ -553,10 +788,25 @@
       "queryTimestamp": "2019-08-20T01:22:30.7451725Z",
       "fileCount": 1,
       "fileSize": 36278
+    },
+    {
+      "folderName": "RecipeStages-1.1.1.jar",
+      "fingerprint": 1579334713,
+      "fileDateHash": 1649887842,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1579334713
+      ],
+      "status": 1,
+      "timestamp": "2019-08-20T23:08:19.6765972Z",
+      "lastWriteTimeUtc": "2019-08-20T01:38:15.3191867Z",
+      "queryTimestamp": "2019-08-20T23:08:21.4069865Z",
+      "fileCount": 1,
+      "fileSize": 42906
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-08-20T01:22:30.9803178Z",
+  "lastPreviousMatchUpdate": "2019-08-20T23:08:21.6470404Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -637,10 +887,10 @@
         "isServerPack": false,
         "FileNameOnDisk": "Bookshelf-1.12.2-2.3.585.jar"
       },
-      "dateInstalled": "2019-08-20T01:37:46.7568401Z",
-      "dateUpdated": "2019-08-20T01:37:46.7578441Z",
-      "dateLastUpdateAttempted": "2019-08-20T01:37:46.7578441Z",
-      "status": 4,
+      "dateInstalled": "2019-08-21T00:09:17.8423549Z",
+      "dateUpdated": "2019-08-21T00:09:17.9053769Z",
+      "dateLastUpdateAttempted": "2019-08-21T00:09:17.9053769Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -712,7 +962,7 @@
       "dateInstalled": "2019-08-20T01:11:55.3562113Z",
       "dateUpdated": "2019-08-20T01:11:55.3572121Z",
       "dateLastUpdateAttempted": "2019-08-20T01:11:55.3572121Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -774,7 +1024,86 @@
       "dateInstalled": "2019-08-20T01:15:52.9776703Z",
       "dateUpdated": "2019-08-20T01:15:52.978671Z",
       "dateLastUpdateAttempted": "2019-08-20T01:15:52.978671Z",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 242106,
+      "gameInstanceID": "b6e7146a-78ee-4084-8682-4b6a756b9b99",
+      "installedFile": {
+        "id": 2539562,
+        "displayName": "Better Questing - Quest Book 3.1.1-1.12",
+        "fileName": "questbook-3.1.1-1.12.jar",
+        "fileDate": "2018-03-10T15:02:22.587Z",
+        "fileLength": 20203,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2539/562/questbook-3.1.1-1.12.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 238856,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3052610544,
+            "type": 0
+          },
+          {
+            "foldername": "drethic",
+            "fingerprint": 740509746,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2302881697,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 93684504,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2512685754,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2656715831,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "questbook-3.1.1-1.12.jar"
+      },
+      "dateInstalled": "2019-08-20T23:25:18.2035863Z",
+      "dateUpdated": "2019-08-20T23:25:18.2035863Z",
+      "dateLastUpdateAttempted": "2019-08-20T23:25:18.2035863Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -851,7 +1180,7 @@
       "dateInstalled": "2019-08-20T01:16:39.8337161Z",
       "dateUpdated": "2019-08-20T01:16:39.8367162Z",
       "dateLastUpdateAttempted": "2019-08-20T01:16:39.8367162Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -925,12 +1254,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "OpenBlocks-1.12.2-1.8.1.jar"
+        "FileNameOnDisk": "OpenBlocks-1.12.2-1.8.1.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:16:40.1768422Z",
       "dateUpdated": "2019-08-20T01:16:40.1798512Z",
       "dateLastUpdateAttempted": "2019-08-20T01:16:40.1798512Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -997,12 +1326,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "EnderCore-1.12.2-0.5.65.jar"
+        "FileNameOnDisk": "EnderCore-1.12.2-0.5.65.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:15:51.0172313Z",
       "dateUpdated": "2019-08-20T01:15:51.0182323Z",
       "dateLastUpdateAttempted": "2019-08-20T01:15:51.0182323Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1071,12 +1400,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "EnderStorage-1.12.2-2.4.6.137-universal.jar"
+        "FileNameOnDisk": "EnderStorage-1.12.2-2.4.6.137-universal.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:13:38.6844231Z",
       "dateUpdated": "2019-08-20T01:13:38.6854156Z",
       "dateLastUpdateAttempted": "2019-08-20T01:13:38.6854156Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1140,12 +1469,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Guide-API-1.12-2.1.8-63.jar"
+        "FileNameOnDisk": "Guide-API-1.12-2.1.8-63.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:19:51.3560026Z",
       "dateUpdated": "2019-08-20T01:19:51.3570034Z",
       "dateLastUpdateAttempted": "2019-08-20T01:19:51.3570034Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1345,12 +1674,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "EnderIO-1.12.2-5.0.50.jar"
+        "FileNameOnDisk": "EnderIO-1.12.2-5.0.50.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:15:51.9314357Z",
       "dateUpdated": "2019-08-20T01:15:51.9354453Z",
       "dateLastUpdateAttempted": "2019-08-20T01:15:51.9354453Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1453,7 +1782,136 @@
       "dateInstalled": "2019-08-20T02:30:20.4782676Z",
       "dateUpdated": "2019-08-20T02:30:20.4982711Z",
       "dateLastUpdateAttempted": "2019-08-20T02:30:20.4982711Z",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 333002,
+      "gameInstanceID": "b6e7146a-78ee-4084-8682-4b6a756b9b99",
+      "installedFile": {
+        "id": 2751657,
+        "displayName": "gce-1.0.jar",
+        "fileName": "gce-1.0.jar",
+        "fileDate": "2019-07-30T20:18:35.027Z",
+        "fileLength": 14100,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2751/657/gce-1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 553167977,
+            "type": 0
+          },
+          {
+            "foldername": "quarris",
+            "fingerprint": 2562325207,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2214208411,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 800066137,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "gce-1.0.jar"
+      },
+      "dateInstalled": "2019-08-21T00:27:14.8969842Z",
+      "dateUpdated": "2019-08-21T00:27:14.8969842Z",
+      "dateLastUpdateAttempted": "2019-08-21T00:27:14.8969842Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 303101,
+      "gameInstanceID": "b6e7146a-78ee-4084-8682-4b6a756b9b99",
+      "installedFile": {
+        "id": 2761858,
+        "displayName": "AsmodeusCore-1.12.2-0.0.11.jar",
+        "fileName": "AsmodeusCore-1.12.2-0.0.11.jar",
+        "fileDate": "2019-08-14T16:04:16.31Z",
+        "fileLength": 4049338,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2761/858/AsmodeusCore-1.12.2-0.0.11.jar",
+        "isAlternate": false,
+        "alternateFileId": 2761886,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 889744149,
+            "type": 0
+          },
+          {
+            "foldername": "asmodeuscore",
+            "fingerprint": 943027702,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 240434474,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2737257365,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AsmodeusCore-1.12.2-0.0.11.jar"
+      },
+      "dateInstalled": "2019-08-21T00:27:04.084814Z",
+      "dateUpdated": "2019-08-21T00:27:04.0878221Z",
+      "dateLastUpdateAttempted": "2019-08-21T00:27:04.0878221Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1540,7 +1998,151 @@
       "dateInstalled": "2019-08-20T01:12:44.7708069Z",
       "dateUpdated": "2019-08-20T01:12:44.7718065Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:44.7718065Z",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 238856,
+      "gameInstanceID": "b6e7146a-78ee-4084-8682-4b6a756b9b99",
+      "installedFile": {
+        "id": 2711773,
+        "displayName": "BetterQuesting-3.5.300.jar",
+        "fileName": "BetterQuesting-3.5.300.jar",
+        "fileDate": "2019-05-16T07:12:05.593Z",
+        "fileLength": 1362734,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2711/773/BetterQuesting-3.5.300.jar",
+        "isAlternate": false,
+        "alternateFileId": 2711774,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 409661924,
+            "type": 0
+          },
+          {
+            "foldername": "betterquesting",
+            "fingerprint": 3340094875,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4131091245,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1056182199,
+            "type": 0
+          },
+          {
+            "foldername": "title.png",
+            "fingerprint": 716088397,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1697096500,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BetterQuesting-3.5.300.jar"
+      },
+      "dateInstalled": "2019-08-20T23:25:13.3469731Z",
+      "dateUpdated": "2019-08-20T23:25:13.3519741Z",
+      "dateLastUpdateAttempted": "2019-08-20T23:25:13.3519741Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 238857,
+      "gameInstanceID": "b6e7146a-78ee-4084-8682-4b6a756b9b99",
+      "installedFile": {
+        "id": 2725790,
+        "displayName": "StandardExpansion-3.4.159.jar",
+        "fileName": "StandardExpansion-3.4.159.jar",
+        "fileDate": "2019-06-17T12:05:03.793Z",
+        "fileLength": 606068,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2725/790/StandardExpansion-3.4.159.jar",
+        "isAlternate": false,
+        "alternateFileId": 2725792,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4173811084,
+            "type": 0
+          },
+          {
+            "foldername": "bq_standard",
+            "fingerprint": 484711600,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4135620716,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 677643123,
+            "type": 0
+          },
+          {
+            "foldername": "title.png",
+            "fingerprint": 2032662626,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3836564112,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "StandardExpansion-3.4.159.jar"
+      },
+      "dateInstalled": "2019-08-20T23:25:15.8440619Z",
+      "dateUpdated": "2019-08-20T23:25:15.8450619Z",
+      "dateLastUpdateAttempted": "2019-08-20T23:25:15.8450619Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1614,7 +2216,7 @@
       "dateInstalled": "2019-08-20T01:13:42.7850819Z",
       "dateUpdated": "2019-08-20T01:13:42.7880837Z",
       "dateLastUpdateAttempted": "2019-08-20T01:13:42.7880837Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1691,12 +2293,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ProjectE-1.12.2-PE1.4.1.jar"
+        "FileNameOnDisk": "ProjectE-1.12.2-PE1.4.1.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:17:32.2724867Z",
       "dateUpdated": "2019-08-20T01:17:32.274487Z",
       "dateLastUpdateAttempted": "2019-08-20T01:17:32.274487Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1775,12 +2377,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ImmersiveEngineering-0.12-89.jar"
+        "FileNameOnDisk": "ImmersiveEngineering-0.12-89.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:20:12.1276675Z",
       "dateUpdated": "2019-08-20T01:20:12.1316674Z",
       "dateLastUpdateAttempted": "2019-08-20T01:20:12.1316674Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1862,7 +2464,7 @@
       "dateInstalled": "2019-08-20T01:17:05.8318612Z",
       "dateUpdated": "2019-08-20T01:17:05.8358622Z",
       "dateLastUpdateAttempted": "2019-08-20T01:17:05.8358622Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1928,10 +2530,10 @@
         "isServerPack": false,
         "FileNameOnDisk": "BNBGamingCore-1.12.2-0.11.0.jar"
       },
-      "dateInstalled": "2019-08-20T02:30:20.3412356Z",
-      "dateUpdated": "2019-08-20T02:30:20.3422358Z",
-      "dateLastUpdateAttempted": "2019-08-20T02:30:20.3422358Z",
-      "status": 4,
+      "dateInstalled": "2019-08-21T00:09:11.7081497Z",
+      "dateUpdated": "2019-08-21T00:09:11.7091417Z",
+      "dateLastUpdateAttempted": "2019-08-21T00:09:11.7091417Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2010,85 +2612,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "TConstruct-1.12.2-2.12.0.157.jar"
+        "FileNameOnDisk": "TConstruct-1.12.2-2.12.0.157.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:12:04.7800055Z",
       "dateUpdated": "2019-08-20T01:12:04.7830062Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:04.7830062Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 74924,
-      "gameInstanceID": "b6e7146a-78ee-4084-8682-4b6a756b9b99",
-      "installedFile": {
-        "id": 2713386,
-        "displayName": "Mantle-1.12-1.3.3.55.jar",
-        "fileName": "Mantle-1.12-1.3.3.55.jar",
-        "fileDate": "2019-05-19T20:21:43.573Z",
-        "fileLength": 843486,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2519310866,
-            "type": 0
-          },
-          {
-            "foldername": "slimeknights",
-            "fingerprint": 3140161402,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 770502493,
-            "type": 0
-          },
-          {
-            "foldername": "Mantle.png",
-            "fingerprint": 3296224890,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1859416522,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2810798110,
-        "gameVersion": [
-          "1.12",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Mantle-1.12-1.3.3.55.jar"
-      },
-      "dateInstalled": "2019-08-20T01:12:04.2704655Z",
-      "dateUpdated": "2019-08-20T01:12:04.2714656Z",
-      "dateLastUpdateAttempted": "2019-08-20T01:12:04.2714656Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2188,12 +2717,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "journeymap-1.12.2-5.5.5.jar"
+        "FileNameOnDisk": "journeymap-1.12.2-5.5.5.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:12:00.5474765Z",
       "dateUpdated": "2019-08-20T01:12:00.5494787Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:00.5494787Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2270,7 +2799,7 @@
       "dateInstalled": "2019-08-20T01:34:44.4921933Z",
       "dateUpdated": "2019-08-20T01:34:44.4942022Z",
       "dateLastUpdateAttempted": "2019-08-20T01:34:44.4942022Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2350,7 +2879,7 @@
       "dateInstalled": "2019-08-20T01:19:17.8123896Z",
       "dateUpdated": "2019-08-20T01:19:17.8133895Z",
       "dateLastUpdateAttempted": "2019-08-20T01:19:17.8133895Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2435,7 +2964,7 @@
       "dateInstalled": "2019-08-20T01:37:46.9138757Z",
       "dateUpdated": "2019-08-20T01:37:46.9138757Z",
       "dateLastUpdateAttempted": "2019-08-20T01:37:46.9138757Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2502,12 +3031,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ActuallyAdditions-1.12.2-r149.jar"
+        "FileNameOnDisk": "ActuallyAdditions-1.12.2-r149.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:16:37.3941299Z",
       "dateUpdated": "2019-08-20T01:16:37.3961304Z",
       "dateLastUpdateAttempted": "2019-08-20T01:16:37.3961304Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2574,7 +3103,7 @@
       "dateInstalled": "2019-08-20T01:12:42.0301959Z",
       "dateUpdated": "2019-08-20T01:12:42.0311962Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:42.0311962Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2641,7 +3170,7 @@
       "dateInstalled": "2019-08-20T01:12:08.2717714Z",
       "dateUpdated": "2019-08-20T01:12:08.2727717Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:08.2727717Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2708,7 +3237,7 @@
       "dateInstalled": "2019-08-20T01:17:58.3013364Z",
       "dateUpdated": "2019-08-20T01:17:58.3023283Z",
       "dateLastUpdateAttempted": "2019-08-20T01:17:58.3023283Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2783,12 +3312,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ThermalFoundation-1.12.2-2.6.3.27-universal.jar"
+        "FileNameOnDisk": "ThermalFoundation-1.12.2-2.6.3.27-universal.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:12:42.7323531Z",
       "dateUpdated": "2019-08-20T01:12:42.7343541Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:42.7343541Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2868,7 +3397,7 @@
       "dateInstalled": "2019-08-20T01:38:53.031794Z",
       "dateUpdated": "2019-08-20T01:38:53.0327859Z",
       "dateLastUpdateAttempted": "2019-08-20T01:38:53.0327859Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2948,7 +3477,7 @@
       "dateInstalled": "2019-08-20T01:12:42.1672267Z",
       "dateUpdated": "2019-08-20T01:12:42.1682268Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:42.1682268Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3023,12 +3552,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ThermalExpansion-1.12.2-5.5.4.43-universal.jar"
+        "FileNameOnDisk": "ThermalExpansion-1.12.2-5.5.4.43-universal.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:14:28.0194092Z",
       "dateUpdated": "2019-08-20T01:14:28.0214088Z",
       "dateLastUpdateAttempted": "2019-08-20T01:14:28.0214088Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3104,12 +3633,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rftoolspower-1.12-1.2.0.jar"
+        "FileNameOnDisk": "rftoolspower-1.12-1.2.0.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:19:17.914412Z",
       "dateUpdated": "2019-08-20T01:19:17.9154123Z",
       "dateLastUpdateAttempted": "2019-08-20T01:19:17.9154123Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3188,7 +3717,7 @@
       "dateInstalled": "2019-08-20T01:17:04.2525078Z",
       "dateUpdated": "2019-08-20T01:17:04.2525078Z",
       "dateLastUpdateAttempted": "2019-08-20T01:17:04.2525078Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3255,7 +3784,7 @@
       "dateInstalled": "2019-08-20T01:12:42.3982791Z",
       "dateUpdated": "2019-08-20T01:12:42.3992792Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:42.3992792Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3322,12 +3851,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "OreExcavation-1.4.140.jar"
+        "FileNameOnDisk": "OreExcavation-1.4.140.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:13:53.0479631Z",
       "dateUpdated": "2019-08-20T01:13:53.0489632Z",
       "dateLastUpdateAttempted": "2019-08-20T01:13:53.0489632Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3399,7 +3928,69 @@
       "dateInstalled": "2019-08-20T02:12:14.6284828Z",
       "dateUpdated": "2019-08-20T02:12:14.6294831Z",
       "dateLastUpdateAttempted": "2019-08-20T02:12:14.6294831Z",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 261990,
+      "gameInstanceID": "b6e7146a-78ee-4084-8682-4b6a756b9b99",
+      "installedFile": {
+        "id": 2752029,
+        "displayName": "More-Planets-1.12.2-2.0.21-GC224",
+        "fileName": "More-Planets-1.12.2-2.0.21-GC224.jar",
+        "fileDate": "2019-07-31T15:15:14.407Z",
+        "fileLength": 11115951,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2752/29/More-Planets-1.12.2-2.0.21-GC224.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2109257205,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 788969402,
+            "type": 0
+          },
+          {
+            "foldername": "stevekung",
+            "fingerprint": 1991260567,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 832314951,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "More-Planets-1.12.2-2.0.21-GC224.jar"
+      },
+      "dateInstalled": "2019-08-20T23:26:13.8342258Z",
+      "dateUpdated": "2019-08-20T23:26:13.8412279Z",
+      "dateLastUpdateAttempted": "2019-08-20T23:26:13.8412279Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3486,7 +4077,7 @@
       "dateInstalled": "2019-08-20T01:38:15.3191867Z",
       "dateUpdated": "2019-08-20T01:38:15.3201873Z",
       "dateLastUpdateAttempted": "2019-08-20T01:38:15.3201873Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3557,10 +4148,10 @@
         "isServerPack": false,
         "FileNameOnDisk": "BNBGamingLib-1.12.2-2.17.6.jar"
       },
-      "dateInstalled": "2019-08-20T02:30:14.0710295Z",
-      "dateUpdated": "2019-08-20T02:30:14.0720322Z",
-      "dateLastUpdateAttempted": "2019-08-20T02:30:14.0720322Z",
-      "status": 4,
+      "dateInstalled": "2019-08-21T00:09:11.2431137Z",
+      "dateUpdated": "2019-08-21T00:09:11.2441062Z",
+      "dateLastUpdateAttempted": "2019-08-21T00:09:11.2441062Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3644,7 +4235,7 @@
       "dateInstalled": "2019-08-20T01:37:46.8348574Z",
       "dateUpdated": "2019-08-20T01:37:46.8358581Z",
       "dateLastUpdateAttempted": "2019-08-20T01:37:46.8358581Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3711,7 +4302,7 @@
       "dateInstalled": "2019-08-20T01:14:03.2645061Z",
       "dateUpdated": "2019-08-20T01:14:03.2655065Z",
       "dateLastUpdateAttempted": "2019-08-20T01:14:03.2655065Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3785,7 +4376,74 @@
       "dateInstalled": "2019-08-20T01:38:38.3245404Z",
       "dateUpdated": "2019-08-20T01:38:38.3255415Z",
       "dateLastUpdateAttempted": "2019-08-20T01:38:38.3255415Z",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 286116,
+      "gameInstanceID": "b6e7146a-78ee-4084-8682-4b6a756b9b99",
+      "installedFile": {
+        "id": 2647978,
+        "displayName": "GalacticraftTweaker-1.12.2-1.0.3.jar",
+        "fileName": "GalacticraftTweaker-1.12.2-1.0.3.jar",
+        "fileDate": "2018-12-14T17:46:50.397Z",
+        "fileLength": 18481,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2647/978/GalacticraftTweaker-1.12.2-1.0.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 475343063,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 534427474,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3362194581,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 993144871,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2007-07-01T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "GalacticraftTweaker-1.12.2-1.0.3.jar"
+      },
+      "dateInstalled": "2019-08-20T23:26:18.4002414Z",
+      "dateUpdated": "2019-08-20T23:26:18.4012426Z",
+      "dateLastUpdateAttempted": "2019-08-20T23:26:18.4012426Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3852,12 +4510,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "appliedenergistics2-rv6-stable-7.jar"
+        "FileNameOnDisk": "appliedenergistics2-rv6-stable-7.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:12:34.0770385Z",
       "dateUpdated": "2019-08-20T01:12:34.0800411Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:34.0800411Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3924,7 +4582,7 @@
       "dateInstalled": "2019-08-20T01:12:38.6864431Z",
       "dateUpdated": "2019-08-20T01:12:38.6864431Z",
       "dateLastUpdateAttempted": "2019-08-20T01:12:38.6864431Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4009,7 +4667,7 @@
       "dateInstalled": "2019-08-20T01:38:41.1572561Z",
       "dateUpdated": "2019-08-20T01:38:41.1582565Z",
       "dateLastUpdateAttempted": "2019-08-20T01:38:41.1582565Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4078,12 +4736,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "moreoverlays-1.15.1-mc1.12.2.jar"
+        "FileNameOnDisk": "moreoverlays-1.15.1-mc1.12.2.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:15:08.100613Z",
       "dateUpdated": "2019-08-20T01:15:08.101613Z",
       "dateLastUpdateAttempted": "2019-08-20T01:15:08.101613Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4163,12 +4821,86 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "TinkerToolLeveling-1.12.2-1.1.0.jar"
+        "FileNameOnDisk": "TinkerToolLeveling-1.12.2-1.1.0.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:14:36.1578388Z",
       "dateUpdated": "2019-08-20T01:14:36.1588302Z",
       "dateLastUpdateAttempted": "2019-08-20T01:14:36.1588302Z",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 238770,
+      "gameInstanceID": "b6e7146a-78ee-4084-8682-4b6a756b9b99",
+      "installedFile": {
+        "id": 2756641,
+        "displayName": "GalaxySpace-1.12.2-2.0.10.jar",
+        "fileName": "GalaxySpace-1.12.2-2.0.10.jar",
+        "fileDate": "2019-08-07T17:15:52.92Z",
+        "fileLength": 17782927,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2756/641/GalaxySpace-1.12.2-2.0.10.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 303101,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 227802304,
+            "type": 0
+          },
+          {
+            "foldername": "galaxyspace",
+            "fingerprint": 614179485,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1095689235,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3156026121,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4254268003,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "GalaxySpace-1.12.2-2.0.10.jar"
+      },
+      "dateInstalled": "2019-08-21T00:27:05.52344Z",
+      "dateUpdated": "2019-08-21T00:27:05.5334415Z",
+      "dateLastUpdateAttempted": "2019-08-21T00:27:05.5334415Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4267,12 +4999,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "SimplyJetpacks2-1.12.2-2.2.13.66.jar"
+        "FileNameOnDisk": "SimplyJetpacks2-1.12.2-2.2.13.66.jar.disabled"
       },
       "dateInstalled": "2019-08-20T01:17:47.5025116Z",
       "dateUpdated": "2019-08-20T01:17:47.5045129Z",
       "dateLastUpdateAttempted": "2019-08-20T01:17:47.5045129Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

@@ -1,0 +1,20 @@
+{
+  "triumph:example/root": {
+    "criteria": {
+      "location": "2019-08-21 18:38:00 -0500"
+    },
+    "done": true
+  },
+  "triumph:example/example_enter_biome": {
+    "criteria": {
+      "entered_forest": "2019-08-21 18:38:00 -0500"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2019-08-21 18:38:00 -0500"
+    },
+    "done": false
+  }
+}
